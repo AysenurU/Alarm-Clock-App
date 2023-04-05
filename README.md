@@ -2,4 +2,4 @@
 
 https://salesfoceaysenurportfolio-dev-ed.develop.my.site.com/alarm-clock
 
-<p align="left"> <img src="[https://github.com/AysenurU/BMI-Calculator/blob/master/bmi-app.png?raw=true](https://github.com/AysenurU/Alarm-Clock-App/blob/master/alarm-clock.png?raw=true)" alt="aysenuru" /> </p>
+<p align="left"> <img src="https://github.com/AysenurU/Alarm-Clock-App/blob/master/alarm-clock.png?raw=true" alt="aysenuru" /> </p>
